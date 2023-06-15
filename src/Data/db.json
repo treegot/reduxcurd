@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "sandip kumar ",
+      "email": "sandip@gmail.com",
+      "phone": "8709652447",
+      "role": "staff"
+    },
+    {
+      "name": "Sumit sharma",
+      "email": "sumit@gmail.com",
+      "phone": "9560618334",
+      "role": "staff",
+      "id": 2
+    }
+  ]
+}
